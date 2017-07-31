@@ -1,8 +1,8 @@
 # SIPs [![Slack](https://slack.status.im/badge.svg)](https://slack.status.im)
-Ethereum Improvement Proposals (SIPs) describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
+Status Improvement Proposals (SIPs) describe standards for the Status platform, including core protocol specifications, client APIs, and contract standards.
 
 # Contributing
-First review [SIP-1](SIPS/eip-1.md). Then clone the repository and add your SIP to it. There is a [template SIP here](eip-X.md). Then submit a Pull Request to Ethereum's [SIPs repository](https://github.com/status-im/SIPs).
+First review [SIP-1](SIPS/eip-1.md). Then clone the repository and add your SIP to it. There is a [template SIP here](eip-X.md). Then submit a Pull Request to Status's [SIPs repository](https://github.com/status-im/SIPs).
 
 # SIP status terms
 * **Draft** - an SIP that is open for consideration
